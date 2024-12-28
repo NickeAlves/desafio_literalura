@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📚 LiterAlura - Biblioteca Virtual 📚
-## Projeto desafio do curso: Java☕com Spring Boot🍃
+## Projeto desafio do curso: Java com Spring Boot ☕🍃
 
 ![Logo LiterAlura](/images/LiterAlura.png)
 
@@ -14,16 +14,16 @@ Desenvolver um Catálogo de Livros que ofereça interação textual (via console
 ---
 ## 📜 Funcionalidades:
  
- - **1 - Buscar livro pelo título**
+ - 1 - Buscar livro pelo título**
     - Informe o título do livro para realizar a busca na API.
    <br></br>
- - **2 - Buscar autor por nome**
+ - 2 - Buscar autor por nome**
    - Informe o nome do autor para realizar a busca na API.
    <br></br>
- - **3 - Listar livros registrados**
+ - 3 - Listar livros registrados**
    - Consulta e mostra todos os livros registrados no banco de dados. 
    <br></br>
- - **4 - Listar autores registrados**
+ - 4 - Listar autores registrados**
    - Consulta e mostra todos os autores registrados no banco de dados.
    <br></br>
  - 5 - Listar livros por um idioma
